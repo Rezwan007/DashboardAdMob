@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dashboard AdMob</string>
+
+
+    <string name="fragment_overview">Overview</string>
+    <string name="fragment_apps">Apps</string>
+    <string name="fragment_adunits">Ad units</string>
+    <string name="fragment_help">Support</string>
+    <string name="content_desc">Content Description</string>
+
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-7998863643697390/8613755690</string>
+</resources>
